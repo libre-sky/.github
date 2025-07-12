@@ -1,5 +1,3 @@
 # LibreSky
 
-## Mission Statement
-
-Democratize access to weather data.
+Democratizing access to weather data.
